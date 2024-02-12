@@ -11,3 +11,5 @@ Using this script you can easily:
   7- add new groups
   8- modify existing groups (change group ID, change group name)
   9- delete groups
+The link below shows a preview of the script working:
+https://youtu.be/YqX7uj8o27U
