@@ -226,7 +226,7 @@ DeleteGroup_screen(){
         current_screen="main"
     else
         if  whiptail --yesno "Are you sure you want to delete Group '$gname'?" 8 60; then
-            sudo groupdel "$game"
+            sudo groupdel "$gname"
             whiptail --msgbox " group $gname deleted"
             current_screen="main"
         else
